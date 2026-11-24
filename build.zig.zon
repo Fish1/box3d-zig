@@ -1,0 +1,13 @@
+.{
+    .name = .box3d_zig,
+    .version = "0.0.1",
+    .dependencies = .{
+        .box3d = .{
+            .url = "git+https://github.com/erincatto/box3d?ref=main#e48b902fee415262a1b3c8cf6e8f61049f3fbf2d",
+            .hash = "N-V-__8AAO6K0wATgp1gP0bi5qNTKTb1OzymMsvQoel_8JI1",
+        },
+    },
+    .minimum_zig_version = "0.17.0",
+    .paths = .{""},
+    .fingerprint = 0x16de33e1d4ef652,
+}
